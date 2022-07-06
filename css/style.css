@@ -1,0 +1,72 @@
+h1 {
+    background: chartreuse;
+    color: gold;
+    font-size: 50px;
+    border-color: black;
+    border-radius: 40px;
+    text-shadow: #000 1px 0 0px, #000 0 1px 0px, #000 -1px 0 0px, #000 0 -1px 0px;
+    text-align: center;
+}
+
+h1:hover {
+    background: gold;
+    color: chartreuse;
+    font-size: 50px;
+    border-color: black;
+    border-radius: 40px;
+    text-shadow: #000 1px 0 0px, #000 0 1px 0px, #000 -1px 0 0px, #000 0 -1px 0px;
+    text-align: center;
+}
+
+img{
+    max-width: 400px;
+    min-width: 200px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    background: gold;
+    text-align: center;
+    border-radius: 40px;
+    letter-spacing: 2px;
+    text-shadow: #000 1px 0 0px, #000 0 1px 0px, #000 -1px 0 0px, #000 0 -1px 0px;
+
+}
+h3 {
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    background: gold;
+
+}
+p {
+    color: black;
+    background: greenyellow;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+    background: gold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: green;
+    font-size: 35px;
+    background: gold;
+}
+
+ul {
+    color: black;
+    background: greenyellow;
+}
+
+li {
+    color: black;
+    background: greenyellow;
+    font-size: 20px;
+}
