@@ -9,7 +9,7 @@ h1 {
 }
 
 h1:hover {
-    background: gold;
+    background: red;
     color: chartreuse;
     font-size: 50px;
     border-color: black;
